@@ -14,7 +14,7 @@ namespace FactoryPattern
         {
             Console.WriteLine("The Truck drives on 16 wheels!");
 
-            throw new NotImplementedException();
+            
         }
     }
 }
