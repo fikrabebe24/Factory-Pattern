@@ -13,7 +13,7 @@ namespace FactoryPattern
         void IVehicle.Drive()
         {
 
-            Console.WriteLine("A motorcycle frives on two wheels");
+            Console.WriteLine("A motorcycle drives on two wheels");
         }
     }
 }
